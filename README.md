@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 This project focuses on predicting the health and degradation of a laptop battery using machine learning techniques. The prediction is based on key usage and operational parameters such as daily usage duration, charging cycles, and related factors. 
 The model evaluates the current condition of the battery, identifies potential failure risks, and provides actionable insights to extend battery lifespan.
 In addition to health prediction, the system performs fault analysis and generates usage-based recommendations to encourage healthier laptop usage habits and reduce long-term battery degradation.
