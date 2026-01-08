@@ -1,1 +1,7 @@
-basic stuff 
+ML models used:
+Linear Regression 
+Random Forest Regressor 
+Logistic Regression
+Random Forest Classifier
+Feedfoward Neural Network
+
